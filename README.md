@@ -155,6 +155,4 @@ screenshot_organizer_v2/
 
 ---
 
-## 📄 License
 
-MIT
